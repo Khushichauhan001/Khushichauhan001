@@ -70,13 +70,11 @@
   
 </p>
 
-<br>
-
 ## IDE
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![NotePad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)  ![IDE](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<br>
-### 🎛️ Operating Systems
+
+## 🎛️ Operating Systems
 
 <p align="left"> 
   
@@ -98,8 +96,7 @@
   </a>
 </p>
   
-<br>
-### 🥅 Others:
+## 🥅 Others:
 
 <a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a>
 <a href="https://numpy.org" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>
