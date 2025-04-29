@@ -42,7 +42,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
 </p>
-
+<br>
+<br>
 
 ### 📋 Frontend Development
 
