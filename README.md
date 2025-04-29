@@ -50,5 +50,13 @@
 </p>
   
 
+  <div align="center">
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushichauhan001&" alt="Khushichauhan001" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushichauhan001&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=yashraghuvans&theme=radical&hide_border=false)
+   
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushichauhan001&" alt="Khushichauhan001" /></p>
+
+
