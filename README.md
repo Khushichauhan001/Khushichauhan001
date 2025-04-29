@@ -15,12 +15,52 @@
 
 <a href="https://leetcode.com/u/khushii001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/khushii001/" height="30" width="40" /></a>
 </p>
-
+<!-- 
 ## Tech Stack
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white")! ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  -->
+
+ ### 📋 Programming languages
+
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  </a>
+
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+</p>
 
 
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white")! ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+### 📋 Frontend Development
 
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+  
+  <a href="https://tailwindcss.com" target="_blank"> 
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
+  </a>
+
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+</p>
 
 
 ## IDE
@@ -52,9 +92,8 @@
 
   <div align="center">
    <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushichauhan001&" alt="Khushichauhan001" /></p> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushichauhan001&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushichauhan001&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="45%"/>
   ![](https://nirzak-streak-stats.vercel.app/?user=Khushichauhan001&theme=radical&hide_border=false)
-  </div>
   
    
 </div>
